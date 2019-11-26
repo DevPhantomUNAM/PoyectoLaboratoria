@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(252, 220, 220);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.titulo{
+    font-size: 13vh;
+    color: black;
+}
+
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.subtitulo{
+    font-size: 6vh;
+    color: black;
+}
